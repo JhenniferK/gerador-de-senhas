@@ -22,20 +22,20 @@ function atualizarCadeado() {
             corpoCadeado.style.borderColor = '#cccccc';
             break;
         case 1:
-            corpoCadeado.style.backgroundColor = '#FFA500';
-            corpoCadeado.style.borderColor = '#FFA500';
+            corpoCadeado.style.backgroundColor = '#add8e6';
+            corpoCadeado.style.borderColor = '#add8e6';
             break;
         case 2:
-            corpoCadeado.style.backgroundColor = '#FFD700'; 
-            corpoCadeado.style.borderColor = '#FFD700';
+            corpoCadeado.style.backgroundColor = '#87ceeb';
+            corpoCadeado.style.borderColor = '#87ceeb';
             break;
         case 3:
-            corpoCadeado.style.backgroundColor = '#32CD32'; 
-            corpoCadeado.style.borderColor = '#32CD32';
+            corpoCadeado.style.backgroundColor = '#4682b4';
+            corpoCadeado.style.borderColor = '#4682b4';
             break;
         case 4:
-            corpoCadeado.style.backgroundColor = '#008000';
-            corpoCadeado.style.borderColor = '#008000';
+            corpoCadeado.style.backgroundColor = '#6c63ff';
+            corpoCadeado.style.borderColor = '#6c63ff';
             break;
     }
 }
@@ -63,7 +63,7 @@ function gerarSenha() {
     }
 
     if (caracteresPermitidos === '') {
-        senhaGerada.textContent = 'Selecione pelo menos um parâmetro!';
+        senhaGerada.textContent = 'Selecione pelo menos um parâmetro.';
         return;
     }
 

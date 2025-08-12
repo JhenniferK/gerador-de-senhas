@@ -22,7 +22,7 @@ GeradorDeSenhas
 ```
 
 ## Como Usar
-1. [Clique aqui]([(https://jhenniferk.github.io/gerador-de-senhas/)])
+1. [Clique aqui](https://jhenniferk.github.io/gerador-de-senhas/)
 2. Selecione os critérios desejados e clique em "Gerar Senha".
 
 ---
